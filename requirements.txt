@@ -1,0 +1,11 @@
+Django
+djangorestframework
+python-decouple
+requests
+coverage
+pytest
+pytest-django
+pytest-cov
+djangorestframework-simplejwt
+django-cors-headers
+python-jose[cryptography]
